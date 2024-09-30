@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Soul-Meister (He/Him). I code mostly in Java/Javascript, but am starting to becom emore familiar with python and C++.
 -  Recently became interested in machine learning, and am currently trying to develop a reinforcement deep q learning agent using DL4J to play my flappy bird game.
--  In the future, I wan tot either design games in C++ using UE, or develop LLMs/TTI AIs.
+-  In the future, I wan to either design games in C++ using UE, or develop LLMs/TTI AIs.
